@@ -9,7 +9,7 @@
   "author": "Anant Mathur",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^3.3.3",
+    "mongodb": "^2.2.33",
     "socket.io": "^2.3.0"
   }
 }
