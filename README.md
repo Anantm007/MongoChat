@@ -1,11 +1,11 @@
-#MongoChat
+# MongoChat
 Simple chat app that uses MongoDB and Socket.io
 
 
-##Install Dependencies
+## Install Dependencies
 npm install 
 Run Server
 npm start
 
-##Run App
+## Run App
 Open index.html
